@@ -1,0 +1,36 @@
+_repo: Group-Psychology-and-The-Analysis-of-The-Ego_35877
+_version: 0.1.0
+alternative_title: Massenpsychologie und Ich-Analyse. English
+contributor:
+  translator:
+    agent_name: Strachey, James
+    gutenberg_agent_id: '37953'
+    url: http://www.gutenberg.org/2009/agents/37953
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Freud, Sigmund
+    birthdate: 1856
+    deathdate: 1939
+    gutenberg_agent_id: '391'
+    url: http://www.gutenberg.org/2009/agents/391
+    wikipedia: http://en.wikipedia.org/wiki/Sigmund_Freud
+description: ''
+gutenberg_issued: '2011-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35877'
+  lccn: '23012806'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social psychology'
+- !lcsh 'Ego (Psychology)'
+- !lcsh 'Psychoanalysis'
+- !lcc 'BF'
+title: Group Psychology and The Analysis of The Ego
+url: http://www.gutenberg.org/ebooks/35877
