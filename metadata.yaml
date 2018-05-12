@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/391
     wikipedia: http://en.wikipedia.org/wiki/Sigmund_Freud
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35877#Group-Psychology-and-The-Analysis-of-The-Ego
 gutenberg_issued: '2011-04-15'
 gutenberg_type: Text
 identifiers:
